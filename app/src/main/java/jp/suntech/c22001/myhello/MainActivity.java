@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
 
 
             String inputStr = input.getText().toString();
-            output.setText(inputStr + "さん、こんにちは");
+            output.setText(inputStr);
 
         }
 
